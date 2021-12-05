@@ -1,7 +1,7 @@
 export const images = [
   {
     src:
-      "https://images.pexels.com/photos/6553054/pexels-photo-6553054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "https://res.cloudinary.com/iarenotamnot/image/upload/v1634341683/kid-blue-hat.webp?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
     alt: "White card",
     date: "February 28, 2021",
     location: "Schliersee, DE"
